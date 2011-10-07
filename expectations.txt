@@ -9,6 +9,14 @@ For this weekend:
 -work with sessions in php
 -check out the Moodle API docs
 
+This is what Kris wants to do:
+-Play with git, get comfortable with Fetch/Commit/Merge/Push
+-Look up PHP session variable functionality
+-Do some reading on the Moddle API
+-A little work on data structure dependencies
+-Go to the Bruins game!
+
+
 Also, I'll be creating that Google chat so we don't have to use this for communication. 
 I'm hoping to have the git interface figured out, as well as have everything we need for communication / file transfering up and running by the end of the weekend.
 
