@@ -1,6 +1,7 @@
 Team 1
 ------
 Benjamin Bielicki(lead)
+Kris Reynolds
 
 Team 2
 ------
