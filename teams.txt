@@ -2,12 +2,34 @@ Team 1
 ------
 Benjamin Bielicki(lead)
 Kris Reynolds
+Michael DeCota
+Jason Dennett
+Tyler Ferm
+Keith Hallock
 
 Team 2
 ------
 Zach Todaro
+Ryley Ameden
+Chris Becker
+Joseph Cormier
+Cara Stoner
+Jonathan Wolfgram
+
 Team 3
 ------
+David Allen
+Austin Anibal
+Josh Dumas
+Nathaniel Heels
+Ryan Kaake
+Wayne Roswell
 
 Team 4
 ------
+Richard Frederick
+Jon Linden
+Stephen Page
+James Prehemo
+Jason Schackai
+Nathan Urbanowski
