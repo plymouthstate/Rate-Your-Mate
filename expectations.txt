@@ -1,4 +1,4 @@
-TEAM AWSOME
+TEAM AWESOME
 
 
 **Test file for everyone to get comfortable with git. 
